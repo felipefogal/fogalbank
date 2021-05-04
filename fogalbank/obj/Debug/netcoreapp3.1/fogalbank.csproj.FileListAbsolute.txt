@@ -1,0 +1,13 @@
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\bin\Debug\netcoreapp3.1\fogalbank.exe
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\bin\Debug\netcoreapp3.1\fogalbank.deps.json
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\bin\Debug\netcoreapp3.1\fogalbank.runtimeconfig.json
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\bin\Debug\netcoreapp3.1\fogalbank.runtimeconfig.dev.json
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\bin\Debug\netcoreapp3.1\fogalbank.dll
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\bin\Debug\netcoreapp3.1\fogalbank.pdb
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.csprojAssemblyReference.cache
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.AssemblyInfoInputs.cache
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.AssemblyInfo.cs
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.csproj.CoreCompileInputs.cache
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.dll
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.pdb
+C:\Users\224032\Desktop\Ecommerce Front\formacao_es\backend\fogalbank\fogalbank\obj\Debug\netcoreapp3.1\fogalbank.genruntimeconfig.cache

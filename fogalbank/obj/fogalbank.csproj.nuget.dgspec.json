@@ -10,20 +10,18 @@
         "projectUniqueName": "C:\\workspace\\aula_csharp_vs\\Centauro\\fogalbank\\fogalbank\\fogalbank.csproj",
         "projectName": "fogalbank",
         "projectPath": "C:\\workspace\\aula_csharp_vs\\Centauro\\fogalbank\\fogalbank\\fogalbank.csproj",
-        "packagesPath": "C:\\Users\\224047\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\89910\\.nuget\\packages\\",
         "outputPath": "C:\\workspace\\aula_csharp_vs\\Centauro\\fogalbank\\fogalbank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\224047\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\89910\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/grupo-sbf/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
